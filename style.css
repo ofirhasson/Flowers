@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(45deg,yellow,blue);
+}
+p{
+    color: aqua;
+}
